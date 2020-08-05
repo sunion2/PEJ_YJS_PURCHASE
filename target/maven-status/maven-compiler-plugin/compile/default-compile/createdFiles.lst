@@ -1,0 +1,11 @@
+PEJ\AbstractEvent$1.class
+PEJ\PurchaseRepository.class
+PEJ\PurchaseController.class
+PEJ\Purchased.class
+PEJ\Purchase.class
+PEJ\AbstractEvent.class
+PEJ\OutOfStock.class
+PEJ\PurchaseApplication.class
+PEJ\config\kafka\KafkaProcessor.class
+PEJ\PolicyHandler.class
+PEJ\Cancelled.class
